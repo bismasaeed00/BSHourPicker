@@ -1,7 +1,7 @@
 # BSHourPicker
 You can replace your keyboard with a picker which shows custom hours.
 
-![alt tag](https://cloud.githubusercontent.com/assets/16186934/24190122/6cd1c28a-0f09-11e7-869b-9626182ea172.png)
+![alt tag](https://cloud.githubusercontent.com/assets/16186934/24743142/90d2ae10-1ac6-11e7-8aeb-b0fe5d2d6cd5.png)
 ## How To Get Started
 Download the project and drop BSDropDownClass into your project.
 Don't forget to import the header file.
